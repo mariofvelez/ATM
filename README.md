@@ -1,2 +1,2 @@
 # ATM
-project for school
+Saves bank accounts to withdraw and deposit money.
